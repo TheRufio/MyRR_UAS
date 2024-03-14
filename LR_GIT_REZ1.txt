@@ -1,0 +1,23 @@
+8e780d7 (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+13d8d3d HEAD@{1}: checkout: moving from develop to master
+8e780d7 (HEAD -> master, develop) HEAD@{2}: rebase (finish): returning to refs/heads/develop
+8e780d7 (HEAD -> master, develop) HEAD@{3}: rebase (pick): update index.html for images2
+c285cbc HEAD@{4}: rebase (pick): added new images in folder images
+0845af3 (styles2) HEAD@{5}: rebase (start): checkout styles2
+293ff14 (images2) HEAD@{6}: checkout: moving from styles2 to develop
+0845af3 (styles2) HEAD@{7}: rebase (finish): returning to refs/heads/styles2
+0845af3 (styles2) HEAD@{8}: rebase (finish): refs/heads/styles2 onto 293ff14b7efd23ed1a71656631d245251ca0b20c
+0845af3 (styles2) HEAD@{9}: checkout: moving from styles to styles2
+7c12787 (styles) HEAD@{10}: checkout: moving from styles2 to styles
+0845af3 (styles2) HEAD@{11}: checkout: moving from 8d141b7e2e5ce740e2ec7833ac7776e1b653abf5 to styles2
+8d141b7 HEAD@{12}: commit: rebase 1/1
+293ff14 (images2) HEAD@{13}: rebase (start): checkout develop
+0845af3 (styles2) HEAD@{14}: checkout: moving from develop to styles2
+293ff14 (images2) HEAD@{15}: checkout: moving from styles to develop
+7c12787 (styles) HEAD@{16}: checkout: moving from styles2 to styles
+0845af3 (styles2) HEAD@{17}: checkout: moving from develop to styles2
+293ff14 (images2) HEAD@{18}: rebase (finish): returning to refs/heads/develop
+293ff14 (images2) HEAD@{19}: rebase (start): checkout images2
+de8944a HEAD@{20}: checkout: moving from images2 to develop
+293ff14 (images2) HEAD@{21}: rebase (finish): returning to refs/heads/images2
+293ff14 (images2) HEAD@{22}: rebase (pick): update index.html for 
